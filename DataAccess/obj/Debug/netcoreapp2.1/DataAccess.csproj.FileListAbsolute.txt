@@ -1,0 +1,9 @@
+D:\Программы\WebFilmsiTechArt\WebFilms\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+D:\Программы\WebFilmsiTechArt\WebFilms\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+D:\Программы\WebFilmsiTechArt\WebFilms\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+D:\Программы\WebFilmsiTechArt\WebFilms\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\Программы\WebFilmsiTechArt\WebFilms\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+D:\Программы\WebFilmsiTechArt\WebFilms\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+D:\Программы\WebFilmsiTechArt\WebFilms\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+D:\Программы\WebFilmsiTechArt\WebFilms\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+D:\Программы\WebFilmsiTechArt\WebFilms\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb

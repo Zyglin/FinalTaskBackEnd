@@ -1,0 +1,14 @@
+D:\Программы\WebFilmsiTechArt\WebFilms\WebFilms\bin\Debug\netcoreapp2.1\WebFilms.deps.json
+D:\Программы\WebFilmsiTechArt\WebFilms\WebFilms\bin\Debug\netcoreapp2.1\WebFilms.runtimeconfig.json
+D:\Программы\WebFilmsiTechArt\WebFilms\WebFilms\bin\Debug\netcoreapp2.1\WebFilms.runtimeconfig.dev.json
+D:\Программы\WebFilmsiTechArt\WebFilms\WebFilms\bin\Debug\netcoreapp2.1\WebFilms.dll
+D:\Программы\WebFilmsiTechArt\WebFilms\WebFilms\obj\Debug\netcoreapp2.1\WebFilms.csprojAssemblyReference.cache
+D:\Программы\WebFilmsiTechArt\WebFilms\WebFilms\obj\Debug\netcoreapp2.1\WebFilms.csproj.CoreCompileInputs.cache
+D:\Программы\WebFilmsiTechArt\WebFilms\WebFilms\obj\Debug\netcoreapp2.1\WebFilms.RazorAssemblyInfo.cache
+D:\Программы\WebFilmsiTechArt\WebFilms\WebFilms\obj\Debug\netcoreapp2.1\WebFilms.RazorAssemblyInfo.cs
+D:\Программы\WebFilmsiTechArt\WebFilms\WebFilms\obj\Debug\netcoreapp2.1\WebFilms.AssemblyInfoInputs.cache
+D:\Программы\WebFilmsiTechArt\WebFilms\WebFilms\obj\Debug\netcoreapp2.1\WebFilms.AssemblyInfo.cs
+D:\Программы\WebFilmsiTechArt\WebFilms\WebFilms\obj\Debug\netcoreapp2.1\WebFilms.RazorTargetAssemblyInfo.cache
+D:\Программы\WebFilmsiTechArt\WebFilms\WebFilms\bin\Debug\netcoreapp2.1\WebFilms.pdb
+D:\Программы\WebFilmsiTechArt\WebFilms\WebFilms\obj\Debug\netcoreapp2.1\WebFilms.dll
+D:\Программы\WebFilmsiTechArt\WebFilms\WebFilms\obj\Debug\netcoreapp2.1\WebFilms.pdb
